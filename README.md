@@ -3,6 +3,9 @@
 
 ### Hi there 👋
 
+- :mailbox_with_no_mail:Email: qingyun_yang@foxmail.com
+- :books:Blog: [Cloud Creator's Blog](https://young-cloud-creator.github.io/)
+
 <!--
 **young-cloud-creator/young-cloud-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
